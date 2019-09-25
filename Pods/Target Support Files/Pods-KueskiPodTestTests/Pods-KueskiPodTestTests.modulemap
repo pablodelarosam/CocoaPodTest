@@ -1,0 +1,6 @@
+framework module Pods_KueskiPodTestTests {
+  umbrella header "Pods-KueskiPodTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
